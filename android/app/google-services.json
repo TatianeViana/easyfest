@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "638216345662",
+    "firebase_url": "https://easyfest-2ddf7.firebaseio.com",
+    "project_id": "easyfest-2ddf7",
+    "storage_bucket": "easyfest-2ddf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638216345662:android:f42ccd921c85947583d96f",
+        "android_client_info": {
+          "package_name": "vianacruz.com.easyfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638216345662-b64kd8aalb2su9ha5658ks484kt31de2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vianacruz.com.easyfest",
+            "certificate_hash": "bfee6503f736c33d99196c8ce9cf039a232ac021"
+          }
+        },
+        {
+          "client_id": "638216345662-he7dmfi06u3leg5e08una69krol69k41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRWeoqW88lMaFr0Ll1ve-vRs4wPxNw0jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638216345662-he7dmfi06u3leg5e08una69krol69k41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
