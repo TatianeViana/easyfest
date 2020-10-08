@@ -1,3 +1,4 @@
+import 'package:easyfest/screens/login_screen.dart';
 import 'package:easyfest/tiles/drawer_tile.dart';
 import 'package:flutter/material.dart';
 class CustomDrawer extends StatelessWidget {
@@ -57,6 +58,9 @@ class CustomDrawer extends StatelessWidget {
                               ),
                             ),
                             onTap: (){
+                              Navigator.of(context).push(
+                                MaterialPageRoute(builder: (context)=>LoginScreen())
+                              );
 
                             },
                           )
